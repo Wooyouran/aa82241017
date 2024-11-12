@@ -14,5 +14,5 @@ namePrefix: dev-
 images:
 - name: ceappacr.azurecr.io/82241017
   newTag: "202411121138"
-- name: cepgstapacr.azurecr.io/82241017
+- name: ceappacr.azurecr.io/82241017
   newTag: "202411120000"
